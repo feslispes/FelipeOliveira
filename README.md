@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=696969">
-
 <h1 align="center">Hello! I'm Felipe Oliveira 🖖</h1>
 
 <ins>**ENGLISH:**</ins>
