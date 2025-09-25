@@ -10,7 +10,7 @@ Olá, seja bem vindo ao meu perfil aqui no GitHub! Me chamo Felipe Oliveira, ten
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F&color:FFF)](https://instagram.com/https://www.instagram.com/_feslispes_/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://linkedin.com/in/https://www.linkedin.com/in/felipe-oliveira-contato/) [![email](https://img.shields.io/badge/email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipeoliveira1974@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F&color:FFF)](https://instagram.com/https://www.instagram.com/_feslispes_/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://linkedin.com/in/https://www.linkedin.com/in/felipe-oliveira-contato/) [![email](https://img.shields.io/badge/email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feslispes74@gmail.com)
 
 ## 💻 Skills:
 
